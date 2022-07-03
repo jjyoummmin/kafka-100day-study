@@ -29,6 +29,7 @@ chmod u+x producer.py
 
 ./producer.py getting_started.ini
 ```
+![producer](../image/12_python_producer.png)
 
 4) consumer app 실행
 ```
@@ -36,3 +37,4 @@ chmod u+x consumer.py
 
 ./consumer.py getting_started.ini
 ```
+![consumer](../image/12_python_consumer.png)
