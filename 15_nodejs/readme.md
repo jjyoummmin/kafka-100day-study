@@ -15,3 +15,5 @@ kafka-topics --bootstrap-server broker:9092 \
              --create \
              --topic purchases
 ```
+
+3) 
