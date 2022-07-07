@@ -16,4 +16,8 @@ kafka-topics --bootstrap-server broker:9092 \
              --topic purchases
 ```
 
-3) 
+3) producer, consumer 실행하기
+```
+node producer.js getting-started.properties
+node consumer.js getting-started.properties 
+```
